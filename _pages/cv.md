@@ -17,17 +17,17 @@ Immokalee Technical College, 2025-2026
 
 Work experience
 ======
-Spring 2024: 
+Family Dollar 
+Role: Customer Service Rep.
+ - Assisting customers with merchandise and bagging.
+ - Cash Handling
+ - Restocking and recovering sales floor.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Dollar General
+Role: Sales Associate
+ - Checking out customers within a timely manner.
+ - Mopping, Sweeping, and recoving the store for next day.
+ - Retriving go-backs, items, and other miscellaneous items back to their original spot. 
   
 Skills
 ======
