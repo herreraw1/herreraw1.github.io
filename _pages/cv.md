@@ -11,15 +11,13 @@ redirect_from:
 
 Education
 ======
-"Immokalee High School, 2024"
-"Immokalee Technical College, 2026"
+Immokalee High School, 2020-2024
+
+Immokalee Technical College, 2025-2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Spring 2024: 
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -33,8 +31,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Typing 60+ wpm
+* Teamwork, Problem Solving, and Real World Senarios
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
